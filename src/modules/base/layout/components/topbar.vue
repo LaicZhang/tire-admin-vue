@@ -22,10 +22,6 @@
 			<auto-menu-btn />
 
 			<li>
-				<cl-chat />
-			</li>
-
-			<li>
 				<cl-theme />
 			</li>
 		</ul>

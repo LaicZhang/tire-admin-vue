@@ -597,10 +597,10 @@
   resolved "https://registry.yarnpkg.com/@types/prettier/-/prettier-2.7.2.tgz#6c2324641cc4ba050a8c710b2b251b377581fbf0"
   integrity sha512-KufADq8uQqo1pYKVIYzfKbJfBAc0sOeXqGbFaSpv8MRmC/zXgowNZmFcbngndGk922QDmOASEXUZCaY48gs4cg==
 
-"@types/quill@^2.0.10":
-  version "2.0.10"
-  resolved "https://registry.yarnpkg.com/@types/quill/-/quill-2.0.10.tgz#bd3df7b59e0cfeb90f3d38892e4d1866261e7c0e"
-  integrity sha512-L6OHONEj2v4NRbWQOsn7j1N0SyzhRR3M4g1M6j/uuIwIsIW2ShWHhwbqNvH8hSmVktzqu0lITfdnqVOQ4qkrhA==
+"@types/quill@^2.0.11":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@types/quill/-/quill-2.0.11.tgz#7df43c4adfd656ab856b35c704042afee1b0de2b"
+  integrity sha512-W4NEBGBGCNVinOjThF6hnyxv0gBsDVEcJPMwEQbkjdLad/sb4+cSm1c/r6ceWbLcUFrQTMVhCRNz6LyxRbH8gQ==
   dependencies:
     parchment "^1.1.2"
     quill-delta "^4.0.1"

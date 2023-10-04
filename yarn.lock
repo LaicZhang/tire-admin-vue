@@ -579,10 +579,10 @@
   resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.191.tgz#09511e7f7cba275acd8b419ddac8da9a6a79e2fa"
   integrity sha512-BdZ5BCCvho3EIXw6wUCXHe7rS53AIDPLE+JzwgT+OsJk53oBfbSmZZ7CX4VaRoN78N+TJpFi9QPlfIVNmJYWxQ==
 
-"@types/mockjs@^1.0.6":
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/@types/mockjs/-/mockjs-1.0.7.tgz#3a0f1bc3f286ae2891d9592422529268665c88d3"
-  integrity sha512-OCxXz6hEaJOVpRwuJMiVY5a6LtJcih+br9gwB/Q8ooOBikvk5FpBQ31OlNimXo3EqKha1Z7PFBni+q9m+8NCWg==
+"@types/mockjs@^1.0.8":
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/@types/mockjs/-/mockjs-1.0.8.tgz#6af6a5d448c58f9a9e9e663e2a8aaff50b909f42"
+  integrity sha512-20t7Fcx3QPbv4wPGeZ0SFOz1l51W3fO3dtO5Ed8KhkUjJ2VsKLRwhgV12lTvQmHnmkJ99ziH0mDmIOrbe8Gs6A==
 
 "@types/node@^20.5.9":
   version "20.5.9"
